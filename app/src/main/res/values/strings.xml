@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Password Saver B</string>
+    <string name="app_title">Your Pass Saver...|</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="phone_number_hint">000111222</string>
+    <string name="password">Master Password</string>
+    <string name="password_hint">**********</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="phone_number_to_register">Phone number</string>
+    <string name="phone_number_register_hint">999888777</string>
+    <string name="password_register">Master Password</string>
+    <string name="confirm_password_register">Confirm Password</string>
+    <string name="name_hint">Omar</string>
+    <string name="hint_text_register">epa123</string>
+    <string name="hint_text_input">Hint</string>
+    <string name="register_button">Create Account</string>
+    <string name="forgot_pwd_link">Forgot Password?</string>
+    <string name="sign_up_link">Not a Member yet? Sing Up here.</string>
+    <string name="title_activity_register">Create Account</string>
+    <string name="recover_pwd_button">Recover Account</string>
+    <string name="title_activity_forgot_pwd">Forgot Password</string>
+    <string name="description_of_recover_activity">You can recover your account by tapping your phone number that you have registered with th app. Then you will receive a code.</string>
+    <string name="title_activity_slide_menu">SlideMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="add_new_item_menu">Add new Item</string>
+    <string name="update_password_title">Update Password</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_tool">Tools</string>
+    <string name="menu_create_item">Create Item</string>
+    <string name="menu_category">Categories</string>
+    <string name="change_password_label">Change Password</string>
+    <string name="exit">Log out</string>
+    <string name="menu_title_social_media">Social Media</string>
+    <string name="wifi_icon">Wi-Fi</string>
+    <string name="item_title">Title:</string>
+    <string name="item_url">URL:</string>
+    <string name="item_username">Username:</string>
+    <string name="item_pwd">Password:</string>
+    <string name="item_notes">Notes</string>
+    <string name="error_invalid_password">ERROR, please put the correct password.</string>
+    <string name="error_field_required">Empty Field</string>
+    <string name="error_invalid_username">Incorrect username</string>
+    <string name="title_activity_home">Home</string>
+    <string name="current_pwd">Current Password</string>
+    <string name="new_pwd">New Password</string>
+    <string name="confirm_new_pwd">Confirm New Password</string>
+    <string name="create_item_button">Create Item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

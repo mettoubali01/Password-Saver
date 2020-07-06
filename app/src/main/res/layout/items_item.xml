@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardBackgroundColor="#d3d3d3"
+    app:cardCornerRadius="12dp"
+    app:contentPadding="4dp"
+    android:foreground="?selectableItemBackground"
+    app:cardElevation="4dp">
+
+    <TextView
+        android:id="@+id/item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Muhammad"
+        android:textColor="#23313d"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</androidx.cardview.widget.CardView>
